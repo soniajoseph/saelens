@@ -1,4 +1,4 @@
-# Note: This is a fored version for development purposes, not the original repo!! For the original repo, check out this [link](https://github.com/jbloomAus/SAELens).
+# Note: This is a forked version for development purposes, not the original repo!! For the original repo, check out this [link](https://github.com/jbloomAus/SAELens).
 
 <img width="1308" alt="Screenshot 2024-03-21 at 3 08 28 pm" src="https://github.com/jbloomAus/mats_sae_training/assets/69127271/209012ec-a779-4036-b4be-7b7739ea87f6">
 
